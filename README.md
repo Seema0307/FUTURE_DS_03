@@ -94,6 +94,11 @@ Shows the variation in declared monthly revenue across different business segmen
 Compares closed-deal activity across different business segments.
 
 ---
+## 🖼️ Dashboard Preview
+
+The final Power BI dashboard for Task 3 is shown below:
+
+![Marketing Funnel & Conversion Performance Dashboard](screenshots/Dashboard_3.png)
 
 ## 💡 Key Insights
 
